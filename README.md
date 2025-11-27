@@ -51,7 +51,8 @@ PIN DIAGRAM
 <img width="624" height="269" alt="image" src="https://github.com/user-attachments/assets/635c9837-d5f5-4d6f-acc9-8a47a4368230" />
 
 CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
-<img width="779" height="440" alt="image" src="https://github.com/user-attachments/assets/a14d8bc1-9dc7-4a49-98b0-f5320f450a63" />
+![WhatsApp Image 2025-11-27 at 6 00 33 PM](https://github.com/user-attachments/assets/e8c9bfdb-d48c-4879-9969-fbad7582794c)
+
 
 MODEL GRAPH 
 
@@ -82,16 +83,13 @@ Inverting amplifier:
 
 ## TABULATION
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[-(Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |			
- 
+![WhatsApp Image 2025-11-27 at 6 08 43 PM](https://github.com/user-attachments/assets/6cd52b6f-10c2-4379-a25b-a03c5c98ce5a)
+
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-27 at 6 15 02 PM](https://github.com/user-attachments/assets/2a11561a-82db-456c-8592-6934bb363dcb)
 
 
 ---
@@ -108,8 +106,8 @@ ACL = 1 + RF/R1
 
 ## CIRCUIT DIAGRAM
 
+![WhatsApp Image 2025-11-27 at 6 00 57 PM](https://github.com/user-attachments/assets/1a5cb33b-2020-4b79-99c2-f5f431c377cb)
 
-<img width="704" height="397" alt="image" src="https://github.com/user-attachments/assets/1b4b170f-cf21-4fa9-9dc7-96db30b3c153" />
 
 ---
 
@@ -130,14 +128,12 @@ PROCEDURE:
 
 ## TABULATION
 
-| S.No | Vin (V) | Time (ms) | Vo = Vin[1 + (Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+![WhatsApp Image 2025-11-27 at 6 08 57 PM](https://github.com/user-attachments/assets/6dfbd10d-0038-46df-aea0-7ed02ee14ff9)
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-27 at 6 14 40 PM](https://github.com/user-attachments/assets/f249c0d0-7bd8-42d5-8725-46bb6fac9a6d)
 
 
 ---
@@ -150,7 +146,8 @@ If the two input signals are identical, the output is ideally **zero**.
 
 A = Vo/{V2 - V1} = -Rf/R1
 ## CIRCUIT DIAGRAM
-<img width="706" height="522" alt="image" src="https://github.com/user-attachments/assets/917f2544-3735-4a23-a9b7-1264966d0d20" />
+![WhatsApp Image 2025-11-27 at 6 01 05 PM](https://github.com/user-attachments/assets/135417b8-d418-4d82-80c1-77af8aaee447)
+
 
 ## MODEL GRAPH
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/6aa1b9dd-b112-4be1-a37a-d5ee19607b1d" />
@@ -185,16 +182,13 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 ---
 
 ## TABULATION (Differential Amplifier)
+![WhatsApp Image 2025-11-27 at 6 09 14 PM](https://github.com/user-attachments/assets/67f56fca-7e03-480a-a500-90da70c08991)
 
-| S.No | V1 (V) | V2 (V) | Vo = (-Rf/R1)(V1 - V2) (V) | Theoretical | Practical |
-|------|---------|---------|-----------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-11-27 at 6 15 03 PM](https://github.com/user-attachments/assets/aa42aa66-a182-4615-b909-972692242184)
 
 ---
 ## INSTRUMENTATION AMPLIFIER
@@ -208,8 +202,8 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
  
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
+![WhatsApp Image 2025-11-27 at 6 01 31 PM](https://github.com/user-attachments/assets/1f4fd6af-f8bd-4c83-8cfd-b00ac8b50f19)
 
-<img width="1006" height="1087" alt="image" src="https://github.com/user-attachments/assets/636c08f9-7940-470e-a89e-4891d57a9ac7" />
 
 PROCEDURE:
 
@@ -225,14 +219,13 @@ PROCEDURE:
 
 ## TABULATION (Instrumentation Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (Rf / R1) [1 + (2R’ / R)] (V2 – V1) (V) | Theoretical | Practical |
-|------|---------|---------|----------------------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+![WhatsApp Image 2025-11-27 at 6 09 41 PM](https://github.com/user-attachments/assets/cb53ec9e-fd93-4eba-893b-ab15634b9438)
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-27 at 6 15 18 PM](https://github.com/user-attachments/assets/8d53de76-8fda-480d-9c73-bd0f1b173610)
+
 
 
 ---
