@@ -62,7 +62,8 @@ MODEL GRAPH
 
 
 DESIGN:
-![WhatsApp Image 2025-11-28 at 10 35 41 AM](https://github.com/user-attachments/assets/70000ac5-fa67-440d-b490-61bdd1ec63b9)
+![WhatsApp Image 2025-11-28 at 11 00 33 AM](https://github.com/user-attachments/assets/d91e5b03-ec6b-4a65-a35c-7ed73425be91)
+
 
 Inverting amplifier:
 
