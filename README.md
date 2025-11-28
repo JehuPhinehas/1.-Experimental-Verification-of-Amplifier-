@@ -48,7 +48,7 @@ The negative sign in gain indicates a **phase shift of 180°**.
 Acl = -RF/R1
 
 PIN DIAGRAM
-<img width="624" height="269" alt="image" src="https://github.com/user-attachments/assets/635c9837-d5f5-4d6f-acc9-8a47a4368230" />
+<img width="1600" height="919" alt="image" src="https://github.com/user-attachments/assets/7e17d919-f774-4d79-8816-9fc45dbac8d8" />
 
 CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
 <img width="1600" height="764" alt="image" src="https://github.com/user-attachments/assets/c24941b7-33fd-4c2b-8677-9574f70012e4" />
@@ -216,6 +216,9 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
 ![WhatsApp Image 2025-11-28 at 11 06 33 AM](https://github.com/user-attachments/assets/2ccb1077-8b0e-4cfe-aadf-74d3f7bfce1c)
+
+## MODEL GRAPH
+<img width="1600" height="1081" alt="image" src="https://github.com/user-attachments/assets/d7d88740-3a73-458b-b0b0-0d75ce131d7f" />
 
 
 
