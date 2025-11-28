@@ -121,6 +121,9 @@ ACL = 1 + RF/R1
 ## MODEL GRAPH
 
 <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/b33c3293-a0ed-439f-b833-220d57881d7c" />
+## MODEL GRAPH
+
+<img width="1600" height="503" alt="image" src="https://github.com/user-attachments/assets/b4ea70ec-f364-4fe3-829d-47f4a2ccd6fa" />
 
 ---
 PROCEDURE:
