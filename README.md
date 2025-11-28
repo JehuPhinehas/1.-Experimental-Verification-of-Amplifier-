@@ -132,13 +132,14 @@ PROCEDURE:
 
 ## TABULATION
 
-![WhatsApp Image 2025-11-28 at 11 04 15 AM](https://github.com/user-attachments/assets/af8d749e-e5be-47a0-9872-17028c655326)
+![WhatsApp Image 2025-11-28 at 11 12 52 AM](https://github.com/user-attachments/assets/de76ccda-56a4-4f79-a85a-922b35c4334c)
 
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![Uploading image.png…]()
+![WhatsApp Image 2025-11-28 at 11 03 51 AM](https://github.com/user-attachments/assets/6ddae2e8-6b07-4166-a500-c2fdd7069e5b)
+
 
 
 
