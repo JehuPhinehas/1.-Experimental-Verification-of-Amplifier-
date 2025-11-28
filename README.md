@@ -1,4 +1,4 @@
-#**EX.NO:** 1  # EXPERIMENTAL VERIFICATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS
+![WhatsApp Image 2025-11-28 at 11 06 56 AM](https://github.com/user-attachments/assets/a849c318-db5a-4886-9179-468fc6b91c57)#**EX.NO:** 1  # EXPERIMENTAL VERIFICATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS
 **DATE:**  
 ---
 
@@ -153,17 +153,12 @@ If the two input signals are identical, the output is ideally **zero**.
 
 A = Vo/{V2 - V1} = -Rf/R1
 ## CIRCUIT DIAGRAM
-![WhatsApp Image 2025-11-27 at 6 01 05 PM](https://github.com/user-attachments/assets/135417b8-d418-4d82-80c1-77af8aaee447)
-
+![WhatsApp Image 2025-11-28 at 11 05 00 AM](https://github.com/user-attachments/assets/dfb082df-3b02-44de-8b3b-29709eca318c)
 
 ## MODEL GRAPH
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/6aa1b9dd-b112-4be1-a37a-d5ee19607b1d" />
 
 ---
-
-## DESIGN
-
-
 ### **Differential Amplifier**
 
 AV = Vo/{V1 - V2} = -Rf/R1
@@ -189,13 +184,14 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 ---
 
 ## TABULATION (Differential Amplifier)
-![WhatsApp Image 2025-11-27 at 6 09 14 PM](https://github.com/user-attachments/assets/67f56fca-7e03-480a-a500-90da70c08991)
+![WhatsApp Image 2025-11-28 at 11 05 13 AM](https://github.com/user-attachments/assets/ef9150ea-82b5-4d1a-81ee-13d3f4a10468)
+
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-27 at 6 15 03 PM](https://github.com/user-attachments/assets/aa42aa66-a182-4615-b909-972692242184)
+![WhatsApp Image 2025-11-28 at 11 04 51 AM](https://github.com/user-attachments/assets/cb2415d6-7a91-49c7-a47b-6ec3fe35acc2)
 
 ---
 ## INSTRUMENTATION AMPLIFIER
@@ -209,7 +205,8 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
  
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
-![WhatsApp Image 2025-11-27 at 6 01 31 PM](https://github.com/user-attachments/assets/1f4fd6af-f8bd-4c83-8cfd-b00ac8b50f19)
+![WhatsApp Image 2025-11-28 at 11 06 33 AM](https://github.com/user-attachments/assets/2ccb1077-8b0e-4cfe-aadf-74d3f7bfce1c)
+
 
 
 PROCEDURE:
@@ -226,12 +223,12 @@ PROCEDURE:
 
 ## TABULATION (Instrumentation Amplifier)
 
-![WhatsApp Image 2025-11-27 at 6 09 41 PM](https://github.com/user-attachments/assets/cb53ec9e-fd93-4eba-893b-ab15634b9438)
-
+![WhatsApp Image 2025-11-28 at 11 06 56 AM](https://github.com/user-attachments/assets/c2e31444-a58c-4d5a-8784-30ed1a57c955)
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-11-27 at 6 15 18 PM](https://github.com/user-attachments/assets/8d53de76-8fda-480d-9c73-bd0f1b173610)
+<img width="1221" height="1280" alt="image" src="https://github.com/user-attachments/assets/ec5a8f68-3df5-4fcd-95ef-cb48621c61f7" />
+76-8fda-480d-9c73-bd0f1b173610)
 
 
 
