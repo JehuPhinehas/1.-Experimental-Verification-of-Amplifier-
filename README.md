@@ -163,7 +163,7 @@ A = Vo/{V2 - V1} = -Rf/R1
 
 
 ## MODEL GRAPH
-<img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/6aa1b9dd-b112-4be1-a37a-d5ee19607b1d" />
+<img width="1600" height="1295" alt="image" src="https://github.com/user-attachments/assets/8c04cbcc-88ce-4060-b434-954077a07487" />
 
 ---
 ### **Differential Amplifier**
