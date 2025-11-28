@@ -51,18 +51,19 @@ PIN DIAGRAM
 <img width="624" height="269" alt="image" src="https://github.com/user-attachments/assets/635c9837-d5f5-4d6f-acc9-8a47a4368230" />
 
 CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
-![WhatsApp Image 2025-11-28 at 10 56 58 AM](https://github.com/user-attachments/assets/81ca4d2c-662b-4f65-94a2-60b3d31f7ec3)
+<img width="1600" height="764" alt="image" src="https://github.com/user-attachments/assets/c24941b7-33fd-4c2b-8677-9574f70012e4" />
+
 
 
 
 MODEL GRAPH 
 
-<img width="543" height="357" alt="image" src="https://github.com/user-attachments/assets/1836d120-768e-454f-bfe4-682ce70ea7a1" />
-
+<img width="1600" height="979" alt="image" src="https://github.com/user-attachments/assets/26bfd1d7-4bd3-4529-8a6b-9b6532ff2d3e" />
 
 
 DESIGN:
-![WhatsApp Image 2025-11-28 at 11 00 33 AM](https://github.com/user-attachments/assets/d91e5b03-ec6b-4a65-a35c-7ed73425be91)
+<img width="1600" height="624" alt="image" src="https://github.com/user-attachments/assets/380cc4fe-747f-48e0-974f-d76e216b10ae" />
+
 
 
 Inverting amplifier:
@@ -86,12 +87,13 @@ Inverting amplifier:
 
 ## TABULATION
 
-![WhatsApp Image 2025-11-28 at 11 03 36 AM](https://github.com/user-attachments/assets/dc73ec19-ef31-4857-88f6-234fc5a02ab6)
+<img width="1600" height="1283" alt="image" src="https://github.com/user-attachments/assets/7a12c6fb-5fd7-457f-8ae9-3e1a4f2d491f" />
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-<img width="1019" height="1280" alt="image" src="https://github.com/user-attachments/assets/82df5fd5-bfe0-4d85-ae30-450b1cbfcb97" />
+<img width="1079" height="1280" alt="image" src="https://github.com/user-attachments/assets/9449be4f-8fec-419c-8aec-1b21427c1a06" />
+
 
 
 
