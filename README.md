@@ -111,7 +111,8 @@ ACL = 1 + RF/R1
 
 ## CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-28 at 11 04 06 AM](https://github.com/user-attachments/assets/9210dc73-15a8-4219-ac5f-d46b8bcaac57)
+<img width="1600" height="754" alt="image" src="https://github.com/user-attachments/assets/84943f78-8254-4a0d-a38e-33d900d242b0" />
+
 
 
 
@@ -119,7 +120,7 @@ ACL = 1 + RF/R1
 
 ## MODEL GRAPH
 
-<img width="456" height="340" alt="image" src="https://github.com/user-attachments/assets/00c7aaec-b4d8-414e-afa3-e985eb3dd902" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/b33c3293-a0ed-439f-b833-220d57881d7c" />
 
 ---
 PROCEDURE:
@@ -134,13 +135,13 @@ PROCEDURE:
 
 ## TABULATION
 
-![WhatsApp Image 2025-11-28 at 11 12 52 AM](https://github.com/user-attachments/assets/de76ccda-56a4-4f79-a85a-922b35c4334c)
-
+<img width="1600" height="1065" alt="image" src="https://github.com/user-attachments/assets/8560bc70-793c-4cbb-8705-9317f1a167cd" />
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-11-28 at 11 03 51 AM](https://github.com/user-attachments/assets/6ddae2e8-6b07-4166-a500-c2fdd7069e5b)
+<img width="779" height="1280" alt="image" src="https://github.com/user-attachments/assets/a2f998a1-97f1-464c-8af9-e18f896fcee7" />
+
 
 
 
