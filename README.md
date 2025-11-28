@@ -86,13 +86,13 @@ Inverting amplifier:
 
 ## TABULATION
 
-![WhatsApp Image 2025-11-27 at 6 08 43 PM](https://github.com/user-attachments/assets/6cd52b6f-10c2-4379-a25b-a03c5c98ce5a)
-
+![WhatsApp Image 2025-11-28 at 11 03 36 AM](https://github.com/user-attachments/assets/dc73ec19-ef31-4857-88f6-234fc5a02ab6)
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-11-27 at 6 15 02 PM](https://github.com/user-attachments/assets/2a11561a-82db-456c-8592-6934bb363dcb)
+<img width="1019" height="1280" alt="image" src="https://github.com/user-attachments/assets/82df5fd5-bfe0-4d85-ae30-450b1cbfcb97" />
+
 
 
 ---
