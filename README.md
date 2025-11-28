@@ -51,7 +51,8 @@ PIN DIAGRAM
 <img width="624" height="269" alt="image" src="https://github.com/user-attachments/assets/635c9837-d5f5-4d6f-acc9-8a47a4368230" />
 
 CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
-![WhatsApp Image 2025-11-27 at 6 00 33 PM](https://github.com/user-attachments/assets/e8c9bfdb-d48c-4879-9969-fbad7582794c)
+![WhatsApp Image 2025-11-28 at 10 56 58 AM](https://github.com/user-attachments/assets/81ca4d2c-662b-4f65-94a2-60b3d31f7ec3)
+
 
 
 MODEL GRAPH 
