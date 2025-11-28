@@ -109,7 +109,8 @@ ACL = 1 + RF/R1
 
 ## CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-27 at 6 00 57 PM](https://github.com/user-attachments/assets/1a5cb33b-2020-4b79-99c2-f5f431c377cb)
+![WhatsApp Image 2025-11-28 at 11 04 06 AM](https://github.com/user-attachments/assets/9210dc73-15a8-4219-ac5f-d46b8bcaac57)
+
 
 
 ---
@@ -131,12 +132,14 @@ PROCEDURE:
 
 ## TABULATION
 
-![WhatsApp Image 2025-11-27 at 6 08 57 PM](https://github.com/user-attachments/assets/6dfbd10d-0038-46df-aea0-7ed02ee14ff9)
+![WhatsApp Image 2025-11-28 at 11 04 15 AM](https://github.com/user-attachments/assets/af8d749e-e5be-47a0-9872-17028c655326)
+
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-11-27 at 6 14 40 PM](https://github.com/user-attachments/assets/f249c0d0-7bd8-42d5-8725-46bb6fac9a6d)
+![Uploading image.png…]()
+
 
 
 ---
