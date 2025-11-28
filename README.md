@@ -159,7 +159,8 @@ If the two input signals are identical, the output is ideally **zero**.
 
 A = Vo/{V2 - V1} = -Rf/R1
 ## CIRCUIT DIAGRAM
-![WhatsApp Image 2025-11-28 at 11 05 00 AM](https://github.com/user-attachments/assets/dfb082df-3b02-44de-8b3b-29709eca318c)
+<img width="1600" height="895" alt="image" src="https://github.com/user-attachments/assets/b8f272e0-eaef-42ac-b80e-7993e01ef09b" />
+
 
 ## MODEL GRAPH
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/6aa1b9dd-b112-4be1-a37a-d5ee19607b1d" />
@@ -190,14 +191,17 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 ---
 
 ## TABULATION (Differential Amplifier)
-![WhatsApp Image 2025-11-28 at 11 05 13 AM](https://github.com/user-attachments/assets/ef9150ea-82b5-4d1a-81ee-13d3f4a10468)
+<img width="1600" height="1110" alt="image" src="https://github.com/user-attachments/assets/e1805ec4-423a-4a64-b5b8-916ed2081573" />
 
+
+## DESIGN
+<img width="1600" height="486" alt="image" src="https://github.com/user-attachments/assets/1ebb87d6-e8f0-4f75-b48b-8eca96a8f2a4" />
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-28 at 11 04 51 AM](https://github.com/user-attachments/assets/cb2415d6-7a91-49c7-a47b-6ec3fe35acc2)
+<img width="1533" height="1599" alt="image" src="https://github.com/user-attachments/assets/4c79c133-4748-46c8-a92b-be28af85f3d5" />
 
 ---
 ## INSTRUMENTATION AMPLIFIER
